@@ -1,3 +1,3 @@
 # gjmurakami.github.io
 
-[photos](./phtoto)
+[photos](./photos)
